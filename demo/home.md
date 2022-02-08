@@ -7,19 +7,19 @@ layout: home
 hero:
   image: https://sergiozygmunt.com/cdn-cgi/imagedelivery/_giFxkjSa0fKWn6HYiz9Ug/bc4e8749-d08d-41cd-51fd-a035b1c91a00/public
   callout:
-    alt: "Hello"
-    text: I'm Sergio
+    alt: "Cloudflare"
+    text: Demo Environment
   button:
-    href: /projects/
-    text: Projects
-  content: I mess with things until they break and (hopefully) fix them. <br> Projects, skills, & experience - it's all here - here's some highlights
+    href: /products/
+    text: Core Products
+  content: Here you'll find information and a demo of Cloudflare's products and technologies.
 
 graphics:
   - image:
       src: https://sergiozygmunt.com/cdn-cgi/imagedelivery/_giFxkjSa0fKWn6HYiz9Ug/dd18dbe1-6e75-4a39-ff61-1da0eb22f200/public
-      alt: 'Padlock icon for HTTPSCompliance'
-    title: HTTPS Compliance Tool
-    description: Created application that checks numerous server-side settings of web properties to see if they are deployed following best practices.
+      alt: 'Padlock icon'
+    title: Advanced Security
+    description: Cloudflare's advanced security [open source software](https://github.com/18f/tock) to creat
   - image:
       src: https://sergiozygmunt.com/cdn-cgi/imagedelivery/_giFxkjSa0fKWn6HYiz9Ug/9967e8a1-8646-46e9-0933-cdb04285a700/public
       alt: 'Tock'
