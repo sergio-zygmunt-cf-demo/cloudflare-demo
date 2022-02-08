@@ -12,12 +12,8 @@
 #   links: primary
 #
 primary:
-  - text: Stream
-    links:
-      - text: VOD
-        href: /stream/vod
-      - text: Live
-        href: /stream/live
+  - text: Products
+    href: /products
   - text: Security
     links:
       - text: WAF
@@ -36,9 +32,21 @@ primary:
         href: /security/challange
       - text: Legacy Challange
         href: /security/legacy-challange
-  - text: Contact me
-    href: /contact/
-    external: false
+  - text: Performance
+    links:
+      - text: Perf 1
+        href: /stream/vod
+      - text: Perf 2
+        href: /stream/live
+  - text: Stream
+    links:
+      - text: VOD
+        href: /stream/vod
+      - text: Live
+        href: /stream/live
+  - text: API docs
+    href: https://developers.cloudflare.com/
+    external: true
 
 secondary:
   - text: Projects
@@ -64,10 +72,10 @@ docs:
     external: true
 
 footer:
-  - text: Projects
-    href: /projects/
-  - text: Experience
-    href: /experience/
+  - text: Products
+    href: /products/
+  - text: Security
+    href: /security/
   - text: GitHub
     href: https://github.com/sergiozygmunt
     external: true
