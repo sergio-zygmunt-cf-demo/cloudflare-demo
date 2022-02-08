@@ -13,25 +13,29 @@
 #
 primary:
   - text: Stream
-    href: /Stream/
-  - text: Experience
     links:
-      - text: Full Resume
-        href: /experience/
-      - text: Work Experience
-        href: /resume/#work-experience
-      - text: Certifications
-        href: /experience/#certifications
-      - text: Technical Skills
-        href: /experience/#technical-skills
-      - text: Non-technical Skills
-        href: /experience/#non-technical-skills
-      - text: Education
-        href: /experience/#education
-      - text: Awards
-        href: /experience/#awards
-      - text: Groups
-        href: /experience/#groups
+      - text: VOD
+        href: /stream/vod
+      - text: Live
+        href: /stream/live
+  - text: Security
+    links:
+      - text: WAF
+        href: /security/waf
+      - text: Bot Management
+        href: /security/bot-management
+      - text: Page Shield
+        href: /security/page-shield
+      - text: Edge Certificates
+        href: /security/edge-certificates
+      - text: DDoS
+        href: /security/ddos
+      - text: Firewall
+        href: /security/firewall
+      - text: Challange
+        href: /security/challange
+      - text: Legacy Challange
+        href: /security/legacy-challange
   - text: Contact me
     href: /contact/
     external: false
