@@ -34,23 +34,43 @@ primary:
         href: /security/legacy-challange
   - text: Performance
     links:
-      - text: Perf 1
-        href: /stream/vod
-      - text: Perf 2
-        href: /stream/live
+      - text: Cache
+        href: /performance/cache
+      - text: Image resizing
+        href: /performance/image-resizing
+      - text: Polish
+        href: /performance/polish
+      - text: Auto Minify
+        href: /performance/auto-minify
+      - text: Brotli Compression
+        href: /performance/brotli
+      - text: Early hints
+        href: /performance/early-hints
+      - text: Wordpress Optimization
+        href: /performance/wordpress-optimization
+      - text: Rocket Loader for JS
+        href: /performance/rocket-loader
+      - text: Railgun
+        href: /performance/railgun
+      - text: Automatic Signed Exchanges
+        href: /performance/automatic-signed-exchanges
+      - text: AMP Real URL
+        href: /performance/amp-real-url
   - text: Stream
     links:
       - text: VOD
         href: /stream/vod
       - text: Live
         href: /stream/live
+      - text: Security
+        href: /stream/security
   - text: API docs
     href: https://developers.cloudflare.com/
     external: true
 
 secondary:
-  - text: Projects
-    href: /projects/
+  - text: Products
+    href: /products/
   - text: Get in touch
     href: /contact/
 
