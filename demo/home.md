@@ -22,7 +22,7 @@ graphics:
     description: Cloudflare's advanced security [open source software](https://github.com/18f/tock) to creat
   - image:
       src: https://sergiozygmunt.com/cdn-cgi/imagedelivery/_giFxkjSa0fKWn6HYiz9Ug/9967e8a1-8646-46e9-0933-cdb04285a700/public
-      alt: 'Tock'
+      alt: 'Performance'
     title: Project Time Reporting System
     description: Forked [open source software](https://github.com/18f/tock) to create a time and attendance system. [Learn more about my deployment](/projects/#tock-time-tracking-system-fork-of-open-source-project)
   - image:
