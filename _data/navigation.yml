@@ -64,6 +64,15 @@ primary:
         href: /stream/live
       - text: Security
         href: /stream/security
+  - text: Serverless
+    links:
+      - text: Workers
+        href: /serverlesss/workers
+      - text: Images 
+        href: /serverlesss/images
+      - text: Security
+        href: /stream/security
+
   - text: API docs
     href: https://developers.cloudflare.com/
     external: true
