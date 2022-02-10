@@ -70,8 +70,8 @@ primary:
         href: /serverlesss/workers
       - text: Images 
         href: /serverlesss/images
-      - text: Security
-        href: /stream/security
+      - text: Pages
+        href: /serverlesss/pages
 
   - text: API docs
     href: https://developers.cloudflare.com/
