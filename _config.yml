@@ -6,7 +6,7 @@ description: Cloudflare Demo
 github_info:
   organization: sergiozygmunt
   repository: cloudflare-demo
-  default_branch: master
+  default_branch: main
 
 # Configuration for setting the site width to 100%
 # To enable, uncomment the following line
