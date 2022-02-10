@@ -12,7 +12,6 @@ Cloudflare's WAF utilizes its global edge network for enterprise-grade security,
 
 ## Example use case
 Click the button below to launch a test layer 7 attack.
-
 ## <button onclick="window.location.href='<script>%20This%20is%20an%20attack%20</script>'" class="">Launch test Layer 7 attack</button>
 
 ## Dashboard view
