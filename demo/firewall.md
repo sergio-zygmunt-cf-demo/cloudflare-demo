@@ -20,7 +20,7 @@ Cloudflare's firewall works like typical firewalls but has additional features s
 | Block Firefox browser |
 |---|
 | <button onclick="window.location.href='firewall/block-firefox'" class="">Test firewall rule</button>
-![Block Firefox firewall rule](https://sergiodemo.com/cdn-cgi/imagedelivery/dHAzaCotabzPiuBsjyNCtA/1bed230a-2fdb-4277-920a-40de18b95e00/public)  |
+![Block Firefox firewall rule](https://sergiodemo.com/cdn-cgi/imagedelivery/dHAzaCotabzPiuBsjyNCtA/3b0668be-fa11-4c8c-c488-e26d72d4d200/public)  |
 
 | Block Safari browser |
 |---|
@@ -30,4 +30,4 @@ Cloudflare's firewall works like typical firewalls but has additional features s
 | Block US IP addresses |
 |---|
 | <button onclick="window.location.href='firewall/block-us-ip'" class="">Test firewall rule</button>
-![Block US IP firewall rule](https://sergiodemo.com/cdn-cgi/imagedelivery/dHAzaCotabzPiuBsjyNCtA/ee91556a-f132-46d7-bc26-2c93c2878e00/public)  |
+![Block US IP firewall rule](https://sergiodemo.com/cdn-cgi/imagedelivery/dHAzaCotabzPiuBsjyNCtA/527b9158-6994-45c3-c1ab-a2e6f25bcb00/public)  |
