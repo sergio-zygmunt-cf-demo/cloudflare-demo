@@ -14,15 +14,19 @@ You will no longer need to purchase and/or issue publicly trusted certificates.
 
 
 ## There are different ways to handle edge TLS
-### Cloudflare issues certs for free - Universal SSL
-This mode is the best choice for most situations where you need only the apex domain and a single subdomain level. It works for `*.sergiodemo.com`, but not `*.subdomain.sergiodemo.com`.
-![Universal SSL Certificate](https://sergiodemo.com/cdn-cgi/imagedelivery/dHAzaCotabzPiuBsjyNCtA/0cb9a7de-dd57-48f6-4829-b58041fd5700/public)
 
-### Advanced Certificate Manager
-Advanced Certificate Manager lets you order custom certificates and is good for situations where you don't want to use a wildcard certificate or if you have more than one level of subdomains.
+| Cloudflare issues certs for free - Universal SSL |
+|---|
+| This mode is the best choice for most situations where you need only the apex domain and a single subdomain level. It works for `*.sergiodemo.com`, but not `*.subdomain.sergiodemo.com`.
+![Universal SSL Certificate](https://sergiodemo.com/cdn-cgi/imagedelivery/dHAzaCotabzPiuBsjyNCtA/0cb9a7de-dd57-48f6-4829-b58041fd5700/public) |
+
+| Advanced Certificate Manager |
+|---|
+| Advanced Certificate Manager lets you order custom certificates and is good for situations where you don't want to use a wildcard certificate or if you have more than one level of subdomains.
 For example, it will work for `a.really.long.subdomain.sergiodemo.com` when Universal SSL will not.
-![Advanced Certificate Manager](https://sergiodemo.com/cdn-cgi/imagedelivery/dHAzaCotabzPiuBsjyNCtA/7f0554dd-196f-4164-a8f6-e2b5e4ee2000/public)
+![Advanced Certificate Manager](https://sergiodemo.com/cdn-cgi/imagedelivery/dHAzaCotabzPiuBsjyNCtA/7f0554dd-196f-4164-a8f6-e2b5e4ee2000/public) |
 
-### User uploads their own certs
-User uploaded certificates (called certificate packs) enable customers to upload their own certificates. This is useful if you have EV certificates or certificates issued by your own CA.
-![Custom certificate](https://sergiodemo.com/cdn-cgi/imagedelivery/dHAzaCotabzPiuBsjyNCtA/cf5fc03b-1ae2-4e84-7cd4-02054aba7d00/public)
+| User uploads their own certs |
+|---|
+| User uploaded certificates (called certificate packs) enable customers to upload their own certificates. This is useful if you have EV certificates or certificates issued by your own CA.
+![Custom certificate](https://sergiodemo.com/cdn-cgi/imagedelivery/dHAzaCotabzPiuBsjyNCtA/cf5fc03b-1ae2-4e84-7cd4-02054aba7d00/public)|
