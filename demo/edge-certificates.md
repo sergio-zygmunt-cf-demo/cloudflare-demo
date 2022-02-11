@@ -23,7 +23,7 @@ You will no longer need to purchase and/or issue publicly trusted certificates.
 
 | Advanced Certificate Manager  |
 |---|
-| Advanced Certificate Manager lets you order custom certificates and is good for situations where you don't want to use a wildcard certificate or if you have more than one level of subdomains. For example, it will work for `a.really.long.subdomain.sergiodemo.com` when Universal SSL will not.
+| Advanced Certificate Manager lets you order custom certificates and is good for situations where you don't want to use a wildcard certificate or if you have more than one level of subdomains. For example, it will work for `third.subdomain.sergiodemo.com` when Universal SSL will not.
 ![Advanced Certificate Manager](https://sergiodemo.com/cdn-cgi/imagedelivery/dHAzaCotabzPiuBsjyNCtA/7f0554dd-196f-4164-a8f6-e2b5e4ee2000/public)|
 
 | User uploads their own certs |
