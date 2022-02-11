@@ -25,7 +25,7 @@ Cloudflare's firewall works like typical firewalls but has additional features s
 | Block Safari browser |
 |---|
 | <button onclick="window.location.href='firewall/block-safari'" class="">Test firewall rule</button>
-![Block Safari firewall rule](https://sergiodemo.com/cdn-cgi/imagedelivery/dHAzaCotabzPiuBsjyNCtA/84717761-e943-4c39-6301-63596ad62400/public)  |
+![Block Safari firewall rule](https://sergiodemo.com/cdn-cgi/imagedelivery/dHAzaCotabzPiuBsjyNCtA/b222540f-5bba-4aed-144a-cc8fee8e8200/public)  |
 
 | Block US IP addresses |
 |---|
