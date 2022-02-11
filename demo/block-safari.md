@@ -1,7 +1,7 @@
 ---
-title: Block Safari Test Page
-description: Block Safari Test Page
-permalink: /security/firewall/block-safari
+title: Challenges
+description: Challenges
+permalink: /security/challenge
 
 layout: page
 
