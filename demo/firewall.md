@@ -30,4 +30,4 @@ Cloudflare's firewall works like typical firewalls but has additional features s
 | Block US IP addresses |
 |---|
 | <button onclick="window.location.href='firewall/block-us-ip'" class="">Test firewall rule</button>
-![Block US IP firewall rule](https://sergiodemo.com/cdn-cgi/imagedelivery/dHAzaCotabzPiuBsjyNCtA/9aeb24e8-983b-455f-4810-5861fc787500/public)  |
+![Block US IP firewall rule](https://sergiodemo.com/cdn-cgi/imagedelivery/dHAzaCotabzPiuBsjyNCtA/ee91556a-f132-46d7-bc26-2c93c2878e00/public)  |
