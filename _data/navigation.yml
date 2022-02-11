@@ -72,6 +72,8 @@ primary:
         href: /serverlesss/images
       - text: Pages
         href: /serverlesss/pages
+      - text: Page rules
+        href: /serverless/page-rules
 
   - text: API docs
     href: https://developers.cloudflare.com/
