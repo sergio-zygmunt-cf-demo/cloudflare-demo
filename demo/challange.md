@@ -14,7 +14,8 @@ Cloudflare's firewall can challenge suspicious visitors to ensure that a higher 
 
 | Managed Challenge |
 |---|
-| Managed challenge is the future of challenges - each request is analyzed and an appropriate challenge is presented. This challenge reduces the number of CAPTCHAs visitors have to complete.||||||<button onclick="window.location.href='challenge/managed-challenge'" class="">Test managed challenge</button>|
+| Managed challenge is the future of challenges - each request is analyzed and an appropriate challenge is presented. This challenge reduces the number of CAPTCHAs visitors have to complete.
+|<button onclick="window.location.href='challenge/managed-challenge'" class="">Test managed challenge</button>|
 ![Managed challenge firewall rule](https://sergiodemo.com/cdn-cgi/imagedelivery/dHAzaCotabzPiuBsjyNCtA/92a3fdd4-1742-4d79-0bb8-584214e99c00/public)  |
 
 | JS Challenge |
@@ -27,5 +28,5 @@ Cloudflare's firewall can challenge suspicious visitors to ensure that a higher 
 |---|
 | Legacy challenge is a old-school CAPTCHA challenge. It's not recommended for most use cases.
 |<button onclick="window.location.href='challenge/legacy-challenge'" class="">Test legacy challenge</button>|
-![Legacy challenge firewall rule](https://sergiodemo.com/cdn-cgi/imagedelivery/dHAzaCotabzPiuBsjyNCtA/29bf02c4-82ab-4b54-6d26-8a91c6f40d00/public)  |
+![Legacy challenge firewall rule](https://sergiodemo.com/cdn-cgi/imagedelivery/dHAzaCotabzPiuBsjyNCtA/ce09c29f-483b-481c-46d8-44578e6ae000/public)  |
 
