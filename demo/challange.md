@@ -28,5 +28,4 @@ Cloudflare's firewall can challenge suspicious visitors to ensure that a higher 
 |---|
 | Legacy challenge is a old-school CAPTCHA challenge. It's not recommended for most use cases.
 |<button onclick="window.location.href='challenge/legacy-challenge'" class="">Test legacy challenge</button>|
-![Legacy challenge firewall rule](https://sergiodemo.com/cdn-cgi/imagedelivery/dHAzaCotabzPiuBsjyNCtA/ce09c29f-483b-481c-46d8-44578e6ae000/public)  |
-
+![Legacy challenge firewall rule](https://sergiodemo.com/cdn-cgi/imagedelivery/dHAzaCotabzPiuBsjyNCtA/29bf02c4-82ab-4b54-6d26-8a91c6f40d00/public)  |
