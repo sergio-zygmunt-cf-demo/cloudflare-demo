@@ -30,30 +30,30 @@ primary:
         href: /security/firewall
       - text: Challenge
         href: /security/challenge
-  - text: Performance
-    links:
-      - text: Cache
-        href: /performance/cache
-      - text: Image resizing
-        href: /performance/image-resizing
-      - text: Polish
-        href: /performance/polish
-      - text: Auto Minify
-        href: /performance/auto-minify
-      - text: Brotli Compression
-        href: /performance/brotli
-      - text: Early hints
-        href: /performance/early-hints
-      - text: Wordpress Optimization
-        href: /performance/wordpress-optimization
-      - text: Rocket Loader for JS
-        href: /performance/rocket-loader
-      - text: Railgun
-        href: /performance/railgun
-      - text: Automatic Signed Exchanges
-        href: /performance/automatic-signed-exchanges
-      - text: AMP Real URL
-        href: /performance/amp-real-url
+  # - text: Performance
+  #   links:
+  #     - text: Cache
+  #       href: /performance/cache
+  #     - text: Image resizing
+  #       href: /performance/image-resizing
+  #     - text: Polish
+  #       href: /performance/polish
+  #     - text: Auto Minify
+  #       href: /performance/auto-minify
+  #     - text: Brotli Compression
+  #       href: /performance/brotli
+  #     - text: Early hints
+  #       href: /performance/early-hints
+  #     - text: Wordpress Optimization
+  #       href: /performance/wordpress-optimization
+  #     - text: Rocket Loader for JS
+  #       href: /performance/rocket-loader
+  #     - text: Railgun
+  #       href: /performance/railgun
+  #     - text: Automatic Signed Exchanges
+  #       href: /performance/automatic-signed-exchanges
+  #     - text: AMP Real URL
+  #       href: /performance/amp-real-url
   - text: Stream
     links:
       - text: VOD

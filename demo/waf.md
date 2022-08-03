@@ -14,4 +14,4 @@ Cloudflare's WAF utilizes its global edge network for enterprise-grade security,
 |---|
 | Click the button below to launch a test layer 7 attack.
 |<button onclick="window.location.href='<script>%20This%20is%20an%20attack%20</script>'" class="">Launch test Layer 7 attack</button>
-![WAF firewall log](https://sergiodemo.com/cdn-cgi/imagedelivery/dHAzaCotabzPiuBsjyNCtA/3e289c17-71c3-4b34-3412-13c2f5d40100/public)  |
+![WAF firewall log](/cdn-cgi/imagedelivery/dHAzaCotabzPiuBsjyNCtA/3e289c17-71c3-4b34-3412-13c2f5d40100/public)  |

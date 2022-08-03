@@ -13,4 +13,4 @@ Click the button below to launch a test DDoS attach. Clicking the below button w
 ## <button onclick="window.location.href='ddos/?blockme=npvenJAo9gMlnd5yD37xQ9P2qp3934&action=block'" class="">Launch test DDoS Attack</button>
 
 ## Dashboard view
-![DDoS Mitigation](https://sergiodemo.com/cdn-cgi/imagedelivery/dHAzaCotabzPiuBsjyNCtA/f4ac9608-0bc2-4f25-4ccb-39cacdd15700/public)
+![DDoS Mitigation](/cdn-cgi/imagedelivery/dHAzaCotabzPiuBsjyNCtA/f4ac9608-0bc2-4f25-4ccb-39cacdd15700/public)
