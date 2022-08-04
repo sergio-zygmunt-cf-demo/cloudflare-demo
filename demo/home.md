@@ -21,7 +21,7 @@ graphics:
     title: Advanced Security
     description: Cloudflare's advanced security keeps your site secure with limited administration needed.
   - image:
-      src: https://sergiozygmunt.com/cdn-cgi/imagedelivery/_giFxkjSa0fKWn6HYiz9Ug/9967e8a1-8646-46e9-0933-cdb04285a700/public
+      src: https://sergiozygmunt.com/cdn-cgi/imagedelivery/_giFxkjSa0fKWn6HYiz9Ug/9c453fa4-fde4-49f2-fe7c-1ca035402200/uswdsgraphics
       alt: 'Performance'
     title: Performance
     description: Cloudflare's advanced network enhances your site's performance
