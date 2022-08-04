@@ -20,8 +20,8 @@ primary:
         href: /security/waf
       - text: Bot Management
         href: /security/bot-management
-      - text: Page Shield
-        href: /security/page-shield
+      # - text: Page Shield
+      #   href: /security/page-shield
       - text: Edge Certificates
         href: /security/edge-certificates
       - text: DDoS
