@@ -9,9 +9,9 @@ hero:
   callout:
     alt: "Cloudflare"
     text: Demo Environment
-  button:
-    href: /products/
-    text: Core Products
+  # button:
+  #   href: /products/
+  #   text: Core Products
   content: Here you'll find information and a demo of Cloudflare's products and technologies.
 
 graphics:
