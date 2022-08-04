@@ -12,8 +12,8 @@
 #   links: primary
 #
 primary:
-  - text: Products
-    href: /products
+  # - text: Products
+  #   href: /products
   - text: Security
     links:
       - text: WAF
@@ -60,57 +60,57 @@ primary:
         href: /stream/vod
       - text: Live
         href: /stream/live
-      - text: Security
-        href: /stream/security
-  - text: Serverless
-    links:
-      - text: Workers
-        href: /serverlesss/workers
-      - text: Images 
-        href: /serverlesss/images
-      - text: Pages
-        href: /serverlesss/pages
-      - text: Page rules
-        href: /serverless/page-rules
+      # - text: Security
+      #   href: /stream/security
+  # - text: Serverless
+  #   links:
+  #     - text: Workers
+  #       href: /serverlesss/workers
+  #     - text: Images 
+  #       href: /serverlesss/images
+  #     - text: Pages
+  #       href: /serverlesss/pages
+  #     - text: Page rules
+  #       href: /serverless/page-rules
 
   - text: API docs
     href: https://developers.cloudflare.com/
     external: true
 
-secondary:
-  - text: Products
-    href: /products/
-  - text: Get in touch
-    href: /contact/
+# secondary:
+#   - text: Products
+#     href: /products/
+#   - text: Get in touch
+#     href: /contact/
 
-docs:
-  - text: Sidenav Projects
-    href: /projects/
-  - text: Sidenav Navigation section
-    links:
-      - text: Demo link A
-        href: /two/a/
-      - text: Demo link B
-        href: /two/b/
-      - text: Demo link C
-        href: /two/c/
-  - text: Sidenav Referenced section
-    links: footer
-  - text: Sidenav External link
-    href: https://18f.gsa.gov
-    external: true
+# docs:
+#   - text: Sidenav Projects
+#     href: /projects/
+#   - text: Sidenav Navigation section
+#     links:
+#       - text: Demo link A
+#         href: /two/a/
+#       - text: Demo link B
+#         href: /two/b/
+#       - text: Demo link C
+#         href: /two/c/
+#   - text: Sidenav Referenced section
+#     links: footer
+#   - text: Sidenav External link
+#     href: https://18f.gsa.gov
+#     external: true
 
 footer:
-  - text: Products
-    href: /products/
-  - text: Security
-    href: /security/
+  # - text: Products
+  #   href: /products/
+  # - text: Security
+  #   href: /security/
   - text: GitHub
     href: https://github.com/sergiozygmunt
-    external: true
-  - text: Get in touch
-    href: /contact/
-    external: false
+  #   external: true
+  # - text: Get in touch
+  #   href: /contact/
+  #   external: false
 # Uncomment the items below and comment the items above in the `footer` list
 # to use footer link columns in the 'big' footer style.
   # - text: Documentation
